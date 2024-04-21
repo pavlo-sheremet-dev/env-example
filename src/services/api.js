@@ -8,3 +8,5 @@ export const getImages = async () => {
   );
   return data;
 };
+
+//
